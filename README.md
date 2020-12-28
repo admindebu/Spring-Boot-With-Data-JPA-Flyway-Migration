@@ -17,7 +17,7 @@ Flyway works by checking the current version of the database and by applying new
 			<groupId>org.flywaydb</groupId>
 			<artifactId>flyway-core</artifactId>
 		</dependency> 
-2. Add below switch in Application.properties files or application.ympl files
+2. Add below switch in Application.properties files or application.yml files
 
 spring.jpa.hibernate.ddl-auto=none
 
